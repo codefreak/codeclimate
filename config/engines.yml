@@ -272,3 +272,7 @@ vint:
   channels:
     stable: codeclimate/codeclimate-vint
   description: Fast and Highly Extensible Vim script Language Lint implemented by Python.
+cpplint:
+  channels:
+    stable: cfreak/codeclimate-cpplint
+  description: Cpplint is a command-line tool to check C/C++ files for style issues following Google's C++ style guide.
