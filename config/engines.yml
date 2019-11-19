@@ -70,6 +70,7 @@ eslint:
     eslint-3: codeclimate/codeclimate-eslint:eslint-3
     eslint-4: codeclimate/codeclimate-eslint:eslint-4
     eslint-5: codeclimate/codeclimate-eslint:eslint-5
+    eslint-6: codeclimate/codeclimate-eslint:eslint-6
   description: A JavaScript/JSX linting utility.
 flog:
   channels:
@@ -206,6 +207,8 @@ rubocop:
     rubocop-0-72: codeclimate/codeclimate-rubocop:rubocop-0-72
     rubocop-0-73: codeclimate/codeclimate-rubocop:rubocop-0-73
     rubocop-0-74: codeclimate/codeclimate-rubocop:rubocop-0-74
+    rubocop-0-75: codeclimate/codeclimate-rubocop:rubocop-0-75
+    rubocop-0-76: codeclimate/codeclimate-rubocop:rubocop-0-76
   description: A Ruby static code analyzer, based on the community Ruby style guide.
 rubymotion:
   channels:
