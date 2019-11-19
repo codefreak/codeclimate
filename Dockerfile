@@ -31,7 +31,7 @@ RUN wget -q -O /tmp/docker.tgz \
     rm -rf /tmp/docker*
 
 COPY . /usr/src/app
-
+COPY config.yml /config.yml
 VOLUME /code
 WORKDIR /code
 ENTRYPOINT ["/usr/src/app/bin/codeclimate"]
